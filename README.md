@@ -1,7 +1,7 @@
 # boilerplates
 
 1. React App:
-```git clone --branch react-app https://github.com/Aditya-Keerthi/boilerplates.git```
+```git clone --branch create-react-app https://github.com/Aditya-Keerthi/boilerplates.git```
 
 2. React App with Express Backend:
 ```git clone --branch react-express-app https://github.com/Aditya-Keerthi/boilerplates.git```
